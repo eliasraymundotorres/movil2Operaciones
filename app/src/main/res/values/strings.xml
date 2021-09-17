@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OperacionesBasicas</string>
+    <string name="app_basicas">Operaciones Básicas</string>
+    <string name="app_primer">Primer Numero</string>
+    <string name="app_segundo">Segundo Numero</string>
+    <string name="app_numero1">Ingrese 1er numero</string>
+    <string name="app_numero2">Ingrese 2do numero</string>
+    <string name="app_mas">+</string>
+    <string name="app_menos">-</string>
+    <string name="app_por">x</string>
+    <string name="app_entre">/</string>
+    <string name="app_resultado">Resultado:</string>
+</resources>
